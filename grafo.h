@@ -1,4 +1,4 @@
-  typedef struct vertice* p_vertice;
+typedef struct vertice* p_vertice;
 typedef struct aresta* p_aresta;
 
 typedef struct vertice
